@@ -1,0 +1,14 @@
+C:\Users\HRISHIKESH\source\repos\generic_1\generic_1\bin\Debug\netcoreapp3.1\generic_1.exe
+C:\Users\HRISHIKESH\source\repos\generic_1\generic_1\bin\Debug\netcoreapp3.1\generic_1.deps.json
+C:\Users\HRISHIKESH\source\repos\generic_1\generic_1\bin\Debug\netcoreapp3.1\generic_1.runtimeconfig.json
+C:\Users\HRISHIKESH\source\repos\generic_1\generic_1\bin\Debug\netcoreapp3.1\generic_1.runtimeconfig.dev.json
+C:\Users\HRISHIKESH\source\repos\generic_1\generic_1\bin\Debug\netcoreapp3.1\generic_1.dll
+C:\Users\HRISHIKESH\source\repos\generic_1\generic_1\bin\Debug\netcoreapp3.1\generic_1.pdb
+C:\Users\HRISHIKESH\source\repos\generic_1\generic_1\obj\Debug\netcoreapp3.1\generic_1.csproj.AssemblyReference.cache
+C:\Users\HRISHIKESH\source\repos\generic_1\generic_1\obj\Debug\netcoreapp3.1\generic_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HRISHIKESH\source\repos\generic_1\generic_1\obj\Debug\netcoreapp3.1\generic_1.AssemblyInfoInputs.cache
+C:\Users\HRISHIKESH\source\repos\generic_1\generic_1\obj\Debug\netcoreapp3.1\generic_1.AssemblyInfo.cs
+C:\Users\HRISHIKESH\source\repos\generic_1\generic_1\obj\Debug\netcoreapp3.1\generic_1.csproj.CoreCompileInputs.cache
+C:\Users\HRISHIKESH\source\repos\generic_1\generic_1\obj\Debug\netcoreapp3.1\generic_1.dll
+C:\Users\HRISHIKESH\source\repos\generic_1\generic_1\obj\Debug\netcoreapp3.1\generic_1.pdb
+C:\Users\HRISHIKESH\source\repos\generic_1\generic_1\obj\Debug\netcoreapp3.1\generic_1.genruntimeconfig.cache
